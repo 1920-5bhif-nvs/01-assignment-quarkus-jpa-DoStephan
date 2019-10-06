@@ -1,6 +1,6 @@
 # Quarkus - JPA
 
-Ein einfaches Quarkus-JPA-Projekt, welches eine Datenbank mit der Entität **Person** beinhaltet.
+Ein einfaches Quarkus-JPA-Projekt, welches die Entität **Person** beinhaltet.
 
 ### Quarkus
 
